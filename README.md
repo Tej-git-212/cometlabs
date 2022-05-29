@@ -6,3 +6,5 @@ All the features CRUD operations:
 Add Data
 Remove Data
 View Data
+
+Deployed Link: https://moonlit-concha-23e359.netlify.app
